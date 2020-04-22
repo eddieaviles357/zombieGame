@@ -1,0 +1,13 @@
+*.ttf
+*.log
+*.obj
+*.tlog
+*.idb
+*.exe
+*.ilk
+*.tlog
+*.vs
+*.user
+*.sln
+*.filters
+*.vcxproj
